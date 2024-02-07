@@ -4,7 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/itscaiocunha/linkHub?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/itscaiocunha/linkHub?style=for-the-badge)
 
-<img src="assets/linkhub_page.png" alt="Logo">
+<img src="assets/linkhub_page.png" alt="Logo" style="width: 50%; height: auto;>
 
 >  Descubra o LinkHub, o meu hub pessoal para todas as minhas redes e conteúdos. Simplifique sua experiência online, encontrando todos os meus links importantes em um só lugar. Navegue por minhas redes sociais, explore meu trabalho e mantenha-se atualizado com facilidade.
 
